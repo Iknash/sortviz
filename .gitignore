@@ -1,2 +1,22 @@
+# Object files
 obj/
+*.o
+*.so
+*.a
+*.out
+
+# Executable
 sortviz
+
+# macOS
+.DS_Store
+
+# Temporary files
+*.swp
+*.swo
+*.bak
+*.tmp
+*.log
+
+# Cache
+.ccls-cache
